@@ -1,0 +1,8 @@
+.nav-bar {
+   background-color: bisque;
+   text-align: right;
+}
+li{
+    display: inline;
+    /* text-align: right; */
+}
